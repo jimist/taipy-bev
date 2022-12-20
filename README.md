@@ -4,7 +4,7 @@ TaiPy Bird Eye View Project
 
 | label                 | jimist fork                                     | Avaiga repository                               |
 |-----------------------|-------------------------------------------------|-------------------------------------------------|
-| taipy                 | [taipy]https://github.com/jimist/taipy                 | https://github.com/Avaiga/taipy                 |
+| taipy                 | [taipy](https://github.com/jimist/taipy)        | https://github.com/Avaiga/taipy                 |
 | taipy-doc             | https://github.com/jimist/taipy-doc             | https://github.com/Avaiga/taipy-doc             |
 | taipy-rest            | https://github.com/jimist/taipy-rest            | https://github.com/Avaiga/taipy-rest            |
 | taipy-getting-started | https://github.com/jimist/taipy-getting-started | https://github.com/Avaiga/taipy-getting-started |
