@@ -11,11 +11,11 @@ TaiPy Bird Eye View Project
 | taipy-gui             | https://github.com/jimist/taipy-gui             | https://github.com/Avaiga/taipy-gui             |
 | taipy-core            | https://github.com/jimist/taipy-core            | https://github.com/Avaiga/taipy-core            |
 
-## Test
+## Tmplt
 
-test
+tmplt tmplt tmplt.
 
-##  maybe todo!!
+##  Checklist
 
 - [ ] documents `github pages` `jekyll theme` **[target address](https://docs.taipy.jimist.com)**
 - [ ] showcase || training || demo `cloudflare pages` `cactus astro` **[target address](https://taipy.jimist.com)**
