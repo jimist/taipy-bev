@@ -1,19 +1,20 @@
 # taipy-bev
 
-TaiPy Bird Eye View Project
+**taipy Bird Eye Project Project View**
 
 | label                 | jimist fork                                     | Avaiga repository                               |
 |-----------------------|-------------------------------------------------|-------------------------------------------------|
-| taipy                 | [taipy](https://github.com/jimist/taipy)        | https://github.com/Avaiga/taipy                 |
+| taipy                 | https://github.com/jimist/taipy                 | https://github.com/Avaiga/taipy                 |
+| core                  | https://github.com/jimist/taipy-core            | https://github.com/Avaiga/taipy-core            |
+| config                | https://github.com/jimist/taipy-config            | https://github.com/Avaiga/taipy-config            |
+| gui                   | https://github.com/jimist/taipy-gui            | https://github.com/Avaiga/taipy-gui            |
+| rest                  | https://github.com/jimist/taipy-rest            | https://github.com/Avaiga/taipy-rest            |
+
+
+**taipy Bird Eye Project Documentation View**
+
 | taipy-doc             | https://github.com/jimist/taipy-doc             | https://github.com/Avaiga/taipy-doc             |
-| taipy-rest            | https://github.com/jimist/taipy-rest            | https://github.com/Avaiga/taipy-rest            |
 | taipy-getting-started | https://github.com/jimist/taipy-getting-started | https://github.com/Avaiga/taipy-getting-started |
-| taipy-gui             | [taipy-gui](https://github.com/jimist/taipy-gui)| https://github.com/Avaiga/taipy-gui             |
-| taipy-core            | https://github.com/jimist/taipy-core            | https://github.com/Avaiga/taipy-core            |
-
-## Tmplt
-
-tmplt tmplt tmplt.
 
 ##  Checklist
 
